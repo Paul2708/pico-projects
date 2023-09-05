@@ -7,8 +7,7 @@ It performs the lookup using the [GitLab REST API](https://docs.gitlab.com/ee/ap
 
 The following video shows the project live in action.
 
-![Demo](./media/demo.mp4 "Demo")
-
+https://github.com/Paul2708/pico-projects/assets/12039677/6c450eae-fed6-4ecb-8246-2c3d2416ee3f
 
 ## Hardware Setup
 
