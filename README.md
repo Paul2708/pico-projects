@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/Paul2708/pico-projects/assets/12039677/9b28995d-d443-469d-a321-e831e43e3ea2)
+![github-header-image](./github-header-image.png)
 
 ## Projects
 This repository provides a collection of projects and resources regarding the [Raspberry Pi Pico W](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html).
