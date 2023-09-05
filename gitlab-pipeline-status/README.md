@@ -7,7 +7,7 @@ It performs the lookup using the [GitLab REST API](https://docs.gitlab.com/ee/ap
 
 The following video shows the project live in action.
 
-https://github.com/Paul2708/pico-projects/assets/12039677/6c450eae-fed6-4ecb-8246-2c3d2416ee3f
+https://github.com/Paul2708/pico-projects/assets/12039677/5708ee63-be97-4be6-8bec-1d4513c634f4
 
 ## Hardware Setup
 
@@ -26,8 +26,10 @@ Each circuit uses a GPIO (General Purpose Input/Output) pin as a power supply, c
 
 Based on the initial and already mentioned Thonny setup, the following source files are required:
 
-- [main.py](./code/main.py): It runs the application.
-- [secrets.py](./code/example.secrets.py): It contains credentials and sensitive information.
+- **[main.py](./code/main.py)**: It runs the application.
+- **[secrets.py](./code/example.secrets.py)**: It contains credentials and sensitive information.
+
+**Installation:**
 
 1. Rename `example.secrets.py` to `secrets.py` and adjust the values.
 2. Store both files in the same directory on the Pico.
