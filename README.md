@@ -12,6 +12,7 @@ The projects are realized using the [Kepler Kit](https://docs.sunfounder.com/pro
 This kit assembles several essential components (e.g., wires and resistors) but also contains additional sensors and actors.
 
 ## Resources
+- [Firmware v1.20.0](https://micropython.org/resources/firmware/RPI_PICO_W-20230426-v1.20.0.uf2)
 - [Official Datasheet](https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf)
 - [Official Guide: Networking and Bluetooth](https://datasheets.raspberrypi.com/picow/connecting-to-the-internet-with-pico-w.pdf)
 - [YouTube Playlist](https://www.youtube.com/watch?v=SL4_oU9t8Ss&list=PLGs0VKk2DiYz8js1SJog21cDhkBqyAhC5) covering several components and applications
